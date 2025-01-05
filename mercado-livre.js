@@ -1,2 +1,3 @@
 const m = 'mercado livre'
-console.assert(m)
+const p = 'pagamento'
+console.log(m,p)
